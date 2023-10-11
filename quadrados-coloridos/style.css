@@ -1,0 +1,33 @@
+
+* {
+    font-size: 0px;
+}
+div {
+    display: inline-block; 
+    border: 1px solid white;
+    width: 200px;
+    height: 200px;
+}
+
+.vermelho {
+    background: red;
+}
+
+.verde {
+    background: green;
+}
+
+.amarelo {
+    background: yellow;
+}
+
+.azul {
+    background: lightskyblue;
+
+}
+
+#borda {
+    border: 1px solid black;
+
+
+}
